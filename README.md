@@ -85,7 +85,7 @@ Sales Visibility: Simplifies tracking of performance trends over time
 
 🖼️ Dashboard Preview
 
-(Add 2–3 clear screenshots here — KPI view, channel performance, and state-wise sales.)
+https://github.com/SaniyaPathan12332/Vrinda-Store-Sales-Dashboard-2025/blob/main/Vrinda%20Dashboard.png
 
 🧠 Conclusion
 
